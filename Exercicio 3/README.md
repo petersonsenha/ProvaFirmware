@@ -5,3 +5,4 @@ Implemente essa lógica usando a linguagem C e compartilhe este código em um re
 
 ## Resposta teórica
 Foi elaborado uma solução simples utilizando estrutura de dados para maior escalabiidade.
+Segue link no WOKWI : https://wokwi.com/projects/428175602406890497
